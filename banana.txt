@@ -1,0 +1,2 @@
+/bin/bash: Q: command not found
+this is a banana file
